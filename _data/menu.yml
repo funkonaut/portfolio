@@ -2,8 +2,30 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: all
+  - title: design
     post_list:
+      category: design
+      limit: 100
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+  - title: art
+    post_lis:
+      category: art
+      limit: 100
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+  - title: education & advocacy
+    post_list:
+      category: education
+      limit: 100
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+  - title: write ups
+    post_list:
+      category: write ups
       limit: 100
       show_more: true
       show_more_text: See archive...

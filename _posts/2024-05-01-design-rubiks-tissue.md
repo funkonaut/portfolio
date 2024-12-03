@@ -26,7 +26,7 @@ author: Chris Correll
 <br> 
 17.75 x 17.75 x 17.5 cm 
 <br> 
-tile, mdf, quartz
+tile, mdf, steel, quartz
  </p>
 
 <br>

@@ -30,5 +30,14 @@ author: Chris Correll
 <br> 
 ~25 x ~25 x ~7.5 mm 
 <br> 
-copper, fiberglass, acrylic
+PCBs, SMDs, acrylic
  </p>
+
+ <br>
+ <br>
+
+| component        | link           | free?  |
+| ------------- |:-------------:| -----:|
+|  bom    | [electronics](https://raw.githubusercontent.com/funkonaut/Earrings/refs/heads/main/design_files/Alien/alien_bom.csv) | FALSE |
+|  PCB designs    | [.sch & .brd files](https://github.com/funkonaut/Earrings/tree/main/design_files) | TRUE |
+
